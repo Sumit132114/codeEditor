@@ -45,24 +45,6 @@ A modern browser-based code editor that allows users to write, edit, and run cod
 * GitHub
 * Api Handling
 
-## Folder Structure
-
-CodeEditor/
-│
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Editor.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Output.jsx
-│   │   └── Sidebar.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── styles/
-├── package.json
-├── README.md
-└── vite.config.js
-
 ---
 
 ## Installation & Setup
